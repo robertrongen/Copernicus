@@ -1,0 +1,14 @@
+{
+  "name": "copernicus",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Mick de Graaf <mick@mickdegraaf.nl>",
+  "license": "MIT",
+  "scripts": {
+    "remix": "remixd --remix-ide https://remix.ethereum.org -s ."
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.28",
+    "openzeppelin-solidity": "^2.4.0"
+  }
+}
