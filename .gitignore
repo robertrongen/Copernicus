@@ -1,0 +1,12 @@
+node_modules/
+/settings.json
+npm-debug.log
+.vscode
+state.json
+build-contracts
+
+build
+copernicus-contracts/build
+client/build
+client/.eslintcache
+client/.eslintrc.json

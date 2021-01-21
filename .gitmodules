@@ -1,0 +1,6 @@
+[submodule "copernicus-contracts"]
+	path = copernicus-contracts
+	url = https://github.com/MickdeGraaf/copernicus-contracts
+[submodule "openzeppelin-contracts"]
+	path = openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts.git
